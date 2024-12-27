@@ -25,7 +25,7 @@ Ultralytics : Used for training and deploying YOLO models, specifically the YOLO
 
 # Output Results
 ![Output Image] (https://github.com/aayushpatel0203/Helmet-Detection-Using-Yolo/blob/main/RIder_3_output.png)
-![Output Image] (https://github.com/aayushpatel0203/Helmet-Detection-Using-Yolo/blob/main/RIder_3_output.png)
+![Output Image] (https://github.com/aayushpatel0203/Helmet-Detection-Using-Yolo/blob/main/without_helmet_result.png)
 
 
 
