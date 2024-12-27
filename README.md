@@ -24,7 +24,7 @@ YOLO : A pre-trained model, for identifying and classifying objects.
 Ultralytics : Used for training and deploying YOLO models, specifically the YOLOv8 model. This library provides a high-level interface for working with YOLO models, making it easier to perform tasks such as object detection, and training.
 
 # Output Results
-![Output Image]
+![Output Image] (https://github.com/aayushpatel0203/Helmet-Detection-Using-Yolo/blob/main/RIder_3_output.png)
 
 
 
